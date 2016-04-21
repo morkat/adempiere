@@ -22,5 +22,7 @@
 	<classpathentry kind="lib" path="/jboss/client/jbossall-client.jar"/>
 	<classpathentry kind="lib" path="/tools/lib/ojdbc6.jar"/>
 	<classpathentry kind="lib" path="/tools/lib/postgresql.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.adempiere.asset"/>
+	<classpathentry kind="lib" path="/JasperReportsTools/lib/jasperreports-5.1.0.jar"/>
 	<classpathentry kind="output" path="posterita/web/WEB-INF/classes"/>
 </classpath>
